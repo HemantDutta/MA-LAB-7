@@ -2,12 +2,10 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="@string/exercises"
-        android:id="@+id/item1"/>
     <item android:title="@string/rate_us"
-        android:id="@+id/item2"/>
+        android:id="@+id/item1"/>
     <item android:title="@string/feedback"
-        android:id="@+id/item3"/>
+        android:id="@+id/item2"/>
     <item android:title="@string/logout"
-        android:id="@+id/item4"/>
+        android:id="@+id/item3"/>
 </menu>

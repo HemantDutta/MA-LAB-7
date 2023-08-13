@@ -22,4 +22,10 @@
     <string name="exercise_name">Exercise Name</string>
     <string name="rating">Rating</string>
     <string name="visit_the_developer"><u>Visit the Developer</u></string>
+    <string name="loading">Loading...</string>
+    <string name="click_the_triple_dot_button_to_choose_from_our_menu">Click the triple dot button to choose from our menu</string>
+    <string name="submitted_at">Submitted At</string>
+    <string name="submit">Submit</string>
+    <string name="feedback_subject">Feedback Subject</string>
+    <string name="enter_feedback">Enter Feedback</string>
 </resources>
